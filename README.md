@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). \
+초간단 Todo List 만들기, 추가만 있고, 삭제는 나중에 만들것 
 
 ## Available Scripts
 
