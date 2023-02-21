@@ -8,7 +8,7 @@ function TodoBoard (props) {
         <div>
             <h1> Todo List</h1>
             {
-            props.todoList.map((item)=><TodoItem item={item}/>) // Array 의 내용을 보여주고 싶을 때. 
+                props.todoList.map((item)=><TodoItem item={item}/>) // Array 의 내용을 보여주고 싶을 때. Map 이용 
             }
         </div>
     )
